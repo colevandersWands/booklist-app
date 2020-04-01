@@ -5,7 +5,7 @@
 
 ` Development Directory` 
 
-```bash
+```txt
 book-list
 |-- data-models
 |   |-- book.js
